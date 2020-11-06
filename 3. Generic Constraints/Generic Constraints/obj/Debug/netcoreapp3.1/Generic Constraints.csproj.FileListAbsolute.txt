@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Constraints\Generic Constraints\obj\Debug\netcoreapp3.1\Generic Constraints.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Constraints\Generic Constraints\obj\Debug\netcoreapp3.1\Generic Constraints.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Constraints\Generic Constraints\obj\Debug\netcoreapp3.1\Generic Constraints.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Constraints\Generic Constraints\obj\Debug\netcoreapp3.1\Generic Constraints.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Constraints\Generic Constraints\bin\Debug\netcoreapp3.1\Generic Constraints.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Constraints\Generic Constraints\bin\Debug\netcoreapp3.1\Generic Constraints.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Constraints\Generic Constraints\bin\Debug\netcoreapp3.1\Generic Constraints.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Constraints\Generic Constraints\bin\Debug\netcoreapp3.1\Generic Constraints.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Constraints\Generic Constraints\bin\Debug\netcoreapp3.1\Generic Constraints.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Constraints\Generic Constraints\bin\Debug\netcoreapp3.1\Generic Constraints.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Constraints\Generic Constraints\obj\Debug\netcoreapp3.1\Generic Constraints.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Constraints\Generic Constraints\obj\Debug\netcoreapp3.1\Generic Constraints.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Constraints\Generic Constraints\obj\Debug\netcoreapp3.1\Generic Constraints.genruntimeconfig.cache

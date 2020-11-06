@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Box of T\Box of T\obj\Debug\netcoreapp3.1\Box of T.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Box of T\Box of T\obj\Debug\netcoreapp3.1\Box of T.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Box of T\Box of T\obj\Debug\netcoreapp3.1\Box of T.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Box of T\Box of T\obj\Debug\netcoreapp3.1\Box of T.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Box of T\Box of T\bin\Debug\netcoreapp3.1\Box of T.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Box of T\Box of T\bin\Debug\netcoreapp3.1\Box of T.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Box of T\Box of T\bin\Debug\netcoreapp3.1\Box of T.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Box of T\Box of T\bin\Debug\netcoreapp3.1\Box of T.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Box of T\Box of T\bin\Debug\netcoreapp3.1\Box of T.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Box of T\Box of T\bin\Debug\netcoreapp3.1\Box of T.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Box of T\Box of T\obj\Debug\netcoreapp3.1\Box of T.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Box of T\Box of T\obj\Debug\netcoreapp3.1\Box of T.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Box of T\Box of T\obj\Debug\netcoreapp3.1\Box of T.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Array Creator\Generic Array Creator\obj\Debug\netcoreapp3.1\Generic Array Creator.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Array Creator\Generic Array Creator\obj\Debug\netcoreapp3.1\Generic Array Creator.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Array Creator\Generic Array Creator\obj\Debug\netcoreapp3.1\Generic Array Creator.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Array Creator\Generic Array Creator\obj\Debug\netcoreapp3.1\Generic Array Creator.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Array Creator\Generic Array Creator\bin\Debug\netcoreapp3.1\Generic Array Creator.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Array Creator\Generic Array Creator\bin\Debug\netcoreapp3.1\Generic Array Creator.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Array Creator\Generic Array Creator\bin\Debug\netcoreapp3.1\Generic Array Creator.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Array Creator\Generic Array Creator\bin\Debug\netcoreapp3.1\Generic Array Creator.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Array Creator\Generic Array Creator\bin\Debug\netcoreapp3.1\Generic Array Creator.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Array Creator\Generic Array Creator\bin\Debug\netcoreapp3.1\Generic Array Creator.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Array Creator\Generic Array Creator\obj\Debug\netcoreapp3.1\Generic Array Creator.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Array Creator\Generic Array Creator\obj\Debug\netcoreapp3.1\Generic Array Creator.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Generic Array Creator\Generic Array Creator\obj\Debug\netcoreapp3.1\Generic Array Creator.genruntimeconfig.cache
